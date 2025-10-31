@@ -1,0 +1,25 @@
+ .kom{
+   
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255);
+    z-index: 9;
+    
+ }
+ .aboutme{
+    padding:75px;
+    text-align: center;
+    color: aliceblue;
+    z-index: 1;
+    background-color: black;
+    background-image: linear-gradient(rgba(21, 30, 31, 0.717),
+            rgba(26, 33, 32, 0.822)),url(../assets/about-me-bckg.jpg);
+          
+          }
+            
+ .img2{
+   width:100% ;
+   
+   
+border: 5px solid white;
+border-radius: 0%;
+ }

@@ -1,0 +1,40 @@
+*{font-family: "Playfair Display", serif;
+ }
+
+/*skill*/
+
+.pen{
+    background-image: linear-gradient(rgba(33, 32, 28, 0.92),
+            rgba(18, 17, 12, 0.822)),url(../src/assets/pen.jpg);
+            
+            
+}
+.bar{
+    padding: 50px;
+}
+.bar1{
+    padding: 50px;
+}
+/*contect*/
+
+.fimg{
+    background-color:#c7a87b;
+           
+}
+
+.part{
+    margin-bottom: 50px;
+    align-items: start;
+}
+.footer {
+          
+          font-size: 17px;
+          background-color:#212121ff;
+          padding: 20px;
+          margin-top: 55px;
+          color:#c7a87b;
+          
+    }
+   /*blob*/
+   
+  

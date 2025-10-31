@@ -1,0 +1,11 @@
+.bg{background-image:linear-gradient(rgba(17, 19, 22, 0.934),
+            rgba(13, 14, 18, 0.822)),url(../src/assets/top-banner-bckg.jpg);}
+.bgColor{
+    background-color: transparent;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    object-fit: cover;
+
+}
+ 
