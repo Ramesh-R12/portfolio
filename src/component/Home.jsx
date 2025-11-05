@@ -16,7 +16,7 @@ function Home() {
         <img src={pic} alt='' className='pic w-100' data-aos="fade-up"/>
           </Col>
         <Col md={6} className='text-center pe-5 align-center mb-5' data-aos="fade-up">
-            <p style={{color:"#c7a87b"}} className=" fs-2 ps-3">Hello! I'm</p>
+            <p style={{color:"#c7a87b"}} className=" fs-2 ps-3 mt-3">Hello! I'm</p>
             <h1 className=" fw-bold ms-3" style={{fontSize:'75px'}}>Ramesh</h1>
             <p style={{color:"#c7a87b"}} className=" fs-3 ps-4">Mern Stack Developer</p>
             <p className='text-secondary ps-4 text-center'>One Man. One Mission. Can He Go Beyond?One Man. One Mission. Can He Go Beyond?</p>

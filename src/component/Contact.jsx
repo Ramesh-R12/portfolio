@@ -11,22 +11,23 @@ import { Form, Button } from "react-bootstrap";
 import { FaTwitter, FaPinterestP, FaYoutube } from "react-icons/fa";
 function Contact() {
   return (
-  <Container id='contact'>
-      <Row className='fimg'>
-        <Col lg={4}><p className='text-center fs-3 text-light p-5'data-aos="zoom-in-up">Follow me!!</p></Col>
-        <Col lg={4}>
-        <div>
-            <p className='ms-5 fs-2 text-light p-5 gap-3 d-flex'data-aos="zoom-in-up">
-             <FaLinkedin /> 
+  <Container id='contact'> 
+
+<Row className='fimg text-center p-5'>
+  <Col xs={12} sm={12} md={4} lg={4}>
+  <p className='text-center fs-3 text-light' data-aos="zoom-in-up">Follow me!!</p>
+  </Col>
+  <Col xs={12} sm={12} md={4} lg={4}>
+  <div className=' fs-2 text-light mb-3'data-aos="zoom-in-up">
+      <FaLinkedin /> 
              <FaSquareWhatsapp />  
              <FaInstagramSquare /> 
              <FaSquareFacebook />  
-            </p>
-        </div>
-        </Col>
-         <Col lg={4}><p className='text-center fs-3 text-light p-5'data-aos="zoom-in-up">Share it!</p></Col>
-      </Row>
-
+  </div> 
+  </Col>
+  <Col className='fs-3 text-light 'data-aos="zoom-in-up" xs={12} sm={12} md={4} lg={4}> Share it!</Col>
+  
+</Row>
 <div>
 
       <Row className=' align-items-center pt-5'style={{ backgroundColor: "#2b2b2b", color: "#fff" }}>
